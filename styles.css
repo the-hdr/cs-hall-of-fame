@@ -1,0 +1,17 @@
+body
+{
+    background-color: rgb(255, 210, 217);
+}
+
+.heading
+{
+    text-align: center;
+}
+
+.info-box
+{
+    border: 5px solid purple;
+    background-color: rgb(227, 158, 170);
+    padding: 2%;
+    margin: 2%;
+}
